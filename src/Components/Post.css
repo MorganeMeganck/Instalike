@@ -1,0 +1,48 @@
+.Post {
+    border-radius: 3px;
+    border: 1px solid #e6e6e6;
+    background-color: #fff;
+    margin-bottom: 60px;
+    margin-left : 20%;
+    margin-right: 20%;
+  }
+  .user {
+    display: flex;
+    padding: 16px;
+    align-items: center;
+  }
+  .legend {
+    display: flex;
+    padding: 16px;
+    align-items: center;
+  }
+  
+  .name {
+    margin-left: 12px;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bold;
+  }
+  .Post-image-bg {
+    background-color: #efefef;
+  }
+  .image {
+    display: block;
+    width: 100%;
+  }
+  .title {
+    padding: 16px 16px;
+  }
+  
+  .vjs-fade-out {
+    display: none;
+    visibility: hidden;
+    opacity: 0;
+  }
+  ul{
+      list-style: none;
+  }
+  .icon{
+    width:30px;
+    height: 30px;
+    border-radius: 50%;
+  }
